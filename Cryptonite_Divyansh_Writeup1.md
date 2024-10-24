@@ -3,7 +3,7 @@
 1) The first task was very basic as we were given a command to just copy paste into the terminal
 2) In the second task we were told about the difference between a command and arguments
 
-	basically the first keyword is the command and all the other words following it are the 	arguments.
+	basically the first keyword is the command and all the other words following it are the arguments.
 
 2. PONDERING PATHS
 
