@@ -93,7 +93,11 @@ Cyrptonite task 2
     
     PATH is an environmental variable in Linux and other Unix-like operating systems that tells the shell which directories to search for executable files (i.e., ready-to-run programs) in response to commands issued by a user. It increases both the convenience and the safety of such operating systems and is widely considered to be the single most important environmental variable.
     
-    A user's PATH consists of a series of colon-separated absolute paths that are stored in plain text files. 
+    A user's PATH consists of a series of colon-separated absolute paths that are stored in plain text files.
+
+   The PATH basically tells the terminal where the user is located. it makes it ewasier for us to use the command we use in our terminals on a daily basis.
+
+   
 
     
         
